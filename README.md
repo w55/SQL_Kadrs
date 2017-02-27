@@ -17,5 +17,7 @@ Stored procedures:
 </ul>
 
 <hr>
-<img width="600" src="Screenshots/main_diagram.jpg" alt="main_diagram.jpg" />
+Here is the main diagram:
+<br>
+<img width="800" src="Screenshots/main_diagram.jpg" alt="main_diagram.jpg" />
 <hr>
