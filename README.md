@@ -4,7 +4,9 @@ Some stored procedures & main daigram for Kadrs department.
 Take a look: 
 
 Diagrams: 
-	<a href="Screenshots/main_diagram.jpg">main diagram</a>.
+<ul>
+	<li><a href="Screenshots/main_diagram.jpg">main diagram</a>.</li>
+</ul>
 
 Stored procedures:
 <ul>
